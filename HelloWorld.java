@@ -4,7 +4,7 @@ public class HelloWorld {
      }   
     public static void main(String[] args) {
         System.out.println("Hello Java World");
-System.out.println("This is my first program");
+System.out.println("This is my first program and my first commit");
          method();
     }
 }
